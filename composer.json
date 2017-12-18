@@ -1,0 +1,20 @@
+{
+  "name": "pug/oc-pug-plugin",
+  "type": "october-plugin",
+  "extra": {
+    "installer-name": "pug"
+  },
+  "keywords": ["pug", "jade", "october", "cms"],
+  "description": "Use Pug (ex-Jade) templates in October CMS",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "kylekatarnls",
+      "homepage": "https://www.phug-lang.com"
+    }
+  ],
+  "require": {
+    "bkwld/laravel-pug": "^1.5"
+  },
+  "minimum-stability": "stable"
+}
